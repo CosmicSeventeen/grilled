@@ -6,7 +6,7 @@ plate
 
 #stage 2 data processing
 
-go to a store (like walmart)  
+go to walmart  
 buy brioche bread 
 buy velveeta cheese 
 take two slices of bread out 
